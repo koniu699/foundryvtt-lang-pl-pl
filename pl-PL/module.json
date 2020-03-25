@@ -1,0 +1,25 @@
+{
+    "name": "pl-PL",
+    "title": "FoundryVTT - pl-PL",
+    "description": "Polish translation to Foundry VTT",
+    "version": "0.5.1",
+    "author": "koniu699, Kain-Reicz",
+    
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+    
+    "languages": [
+      {
+        "lang": "pl",
+        "name": "Polish (Polski)",
+        "path": "pl.json"
+      }
+    ],
+    
+    "url": "https://github.com/koniu699/foundryvtt-lang-pl-pl",
+	  "manifest": "",
+	  "download": ""
+
+
+  }
