@@ -19,6 +19,6 @@
     ],
 
     "url": "https://github.com/koniu699/foundryvtt-lang-pl-pl",
-    "manifest": "https://github.com/koniu699/foundryvtt-lang-pl-pl/blob/master/pl-PL/module.json",
+    "manifest": "https://github.com/koniu699/foundryvtt-lang-pl-pl/raw/master/pl-PL/module.json",
     "download": "https://github.com/koniu699/foundryvtt-lang-pl-pl/archive/master.zip"
 }
