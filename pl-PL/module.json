@@ -1,9 +1,10 @@
 {
-    "name": "pl",
-    "title": "FoundryVTT - pl-PL",
+    "name": "pl-PL",
+    "title": "FoundryVTT-PL",
     "description": "Polish translation to Foundry VTT",
     "version": "0.5.1",
-    "author": ["koniu699, Kain-Reicz"],
+    "minimumCoreVersion": "0.5.1",
+    "author": "koniu699, Kain-Reicz",
 
     "scripts": [],
     "styles": [],
